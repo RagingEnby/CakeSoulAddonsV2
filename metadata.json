@@ -1,0 +1,8 @@
+{
+    "name": "CakeSoulAddons",
+    "creator": "RagingEnby",
+    "version": "2.0.0",
+    "entry": "index.js",
+    "description": "Various features to help with Cake Soul collecting",
+    "requires": ["Amaterasu", "Lore"]
+}
