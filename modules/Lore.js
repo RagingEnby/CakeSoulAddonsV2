@@ -1,3 +1,7 @@
+/// <reference types="../../CTAutocomplete" />
+/// <reference lib="es2015" />
+
+
 export const Lore = {
     replace: (item, index, newLine) => {
         const lore = item.getLore();
